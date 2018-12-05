@@ -1,0 +1,10 @@
+---
+title: "Initial Markdown"
+author: "Ian McGregor"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
